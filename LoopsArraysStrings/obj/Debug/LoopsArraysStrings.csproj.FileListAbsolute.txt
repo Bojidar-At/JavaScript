@@ -1,0 +1,6 @@
+D:\Bojko\Soft\JavaScript\3. JavaScript - Arrays\JS-Loops-Homework\LoopsArraysStrings\bin\LoopsArraysStrings.dll.config
+D:\Bojko\Soft\JavaScript\3. JavaScript - Arrays\JS-Loops-Homework\LoopsArraysStrings\bin\LoopsArraysStrings.dll
+D:\Bojko\Soft\JavaScript\3. JavaScript - Arrays\JS-Loops-Homework\LoopsArraysStrings\bin\LoopsArraysStrings.pdb
+D:\Bojko\Soft\JavaScript\3. JavaScript - Arrays\JS-Loops-Homework\LoopsArraysStrings\obj\Debug\LoopsArraysStrings.csprojResolveAssemblyReference.cache
+D:\Bojko\Soft\JavaScript\3. JavaScript - Arrays\JS-Loops-Homework\LoopsArraysStrings\obj\Debug\LoopsArraysStrings.dll
+D:\Bojko\Soft\JavaScript\3. JavaScript - Arrays\JS-Loops-Homework\LoopsArraysStrings\obj\Debug\LoopsArraysStrings.pdb

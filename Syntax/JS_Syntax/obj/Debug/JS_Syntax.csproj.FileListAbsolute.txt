@@ -1,0 +1,6 @@
+D:\Bojko\Soft\JavaScript\2. JavaScript- Syntax\2. JavaScript- Syntax- Homework\JS_Syntax\bin\JS_Syntax.dll.config
+D:\Bojko\Soft\JavaScript\2. JavaScript- Syntax\2. JavaScript- Syntax- Homework\JS_Syntax\bin\JS_Syntax.dll
+D:\Bojko\Soft\JavaScript\2. JavaScript- Syntax\2. JavaScript- Syntax- Homework\JS_Syntax\bin\JS_Syntax.pdb
+D:\Bojko\Soft\JavaScript\2. JavaScript- Syntax\2. JavaScript- Syntax- Homework\JS_Syntax\obj\Debug\JS_Syntax.csprojResolveAssemblyReference.cache
+D:\Bojko\Soft\JavaScript\2. JavaScript- Syntax\2. JavaScript- Syntax- Homework\JS_Syntax\obj\Debug\JS_Syntax.dll
+D:\Bojko\Soft\JavaScript\2. JavaScript- Syntax\2. JavaScript- Syntax- Homework\JS_Syntax\obj\Debug\JS_Syntax.pdb
